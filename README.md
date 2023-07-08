@@ -13,6 +13,30 @@
             1.login_history มีความสัมพันธ์เป็น many to many กับตาราง profile_user
             2.profile_user มีความสัมพันธ์เป็น one to many กับตาราง site_post
 (2) ใน strapi การสร้างตาราง การกำหนดความสัมพันธ์ การเพิ่มข้อมูลในตาราง
+
+![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/58b706c3-f6be-4ee6-99c8-a4d600672e6b)
+
+  Proflie_user 
+
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/aa22fc4f-2114-455f-a613-63e75919cead)
+
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/682cd42a-f0fd-4e8b-a5a0-27328fc54cc1)
+
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/ecab8ff1-50ef-4660-8bc4-c415af697b75)
+
+
+  Login_history
+  
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/05820c17-6161-4ff5-bf00-ae271e28c93c)
+  
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/2c92e68e-3762-4476-ac2f-cb348734080f)
+
+  
+  Site_post
+
+  
+  
+
 (3) ทดสอบเรียกใช้APIโดยใช้ postman
 (4) เลือกส่วนของข้อมูลจาก response จาก API ที่ต้องการ โดยใช้ graphQL
        
