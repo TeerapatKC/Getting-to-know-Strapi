@@ -37,7 +37,24 @@
   ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/2c92e68e-3762-4476-ac2f-cb348734080f)
 
   
+  --------------------------------------
+
+  เพิ่มข้อมูลในตาราง
   
+  Proflie_user
+  
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/ebba46e0-7fda-49a6-99b9-821d34796e7e)
+
+  
+  Login_history
+
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/7845a298-b345-41e7-902e-72b099508895)
+  
+
+  Site_post
+
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/cc426812-0bcb-40e9-909c-13609c225d70)
+
 
   
   
