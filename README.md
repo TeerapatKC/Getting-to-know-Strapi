@@ -20,6 +20,8 @@
 
   ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/aa22fc4f-2114-455f-a613-63e75919cead)
 
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/c4b33fdc-fd5f-459f-9d37-f178378137ee)
+
   ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/682cd42a-f0fd-4e8b-a5a0-27328fc54cc1)
 
   ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/ecab8ff1-50ef-4660-8bc4-c415af697b75)
@@ -28,11 +30,14 @@
   Login_history
   
   ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/05820c17-6161-4ff5-bf00-ae271e28c93c)
-  
+
+
+  Site_post
+
   ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/2c92e68e-3762-4476-ac2f-cb348734080f)
 
   
-  Site_post
+  
 
   
   
