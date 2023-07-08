@@ -58,10 +58,24 @@
 
   
   
-
 (3) ทดสอบเรียกใช้APIโดยใช้ postman
+  
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/71794739-2f09-4fbb-a20e-c16e27f22862)
+
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/814ac544-891b-438e-ac20-c5ea507536f3)
+
+
+
 (4) เลือกส่วนของข้อมูลจาก response จาก API ที่ต้องการ โดยใช้ graphQL
        
+
+Fetch multiple entries
+
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/2e477562-667a-4e8f-9e21-8d2a4650b7fc)
+
+  ![image](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/135794596/c65b91b4-e8a4-4e2f-bc28-c6ee9ce97368)
+
+
 
 
 
