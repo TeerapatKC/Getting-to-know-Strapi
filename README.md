@@ -1,7 +1,18 @@
-diagram
+1. ข้อมูลที่เกี่ยวข้องกับ Database
 
 ![123 drawio](https://github.com/TeerapatKC/Getting-to-know-Strapi/assets/91894399/004fac70-810f-43cb-b079-139240f9fb39)
 
+อธิบาย จะมี 3 ตาราง คือตาราง 
+           1.login_history 
+             มี attribute คือ login_datetime,user_id
+           2.profile_user
+              attribute is user_id,first_name,last_name,email_address,active,signup_datetime,profile_image
+           3.site_post
+             attribute is post_id,user_id,post_datetime,post_text
+       relational ความสัมพันธ์
+            1.login_history มีความสัมพันธ์เป็น many to many กับตาราง profile_user
+            2.profile_user มีความสัมพันธ์เป็น one to many กับตาราง site_post
+       
 
 
 
