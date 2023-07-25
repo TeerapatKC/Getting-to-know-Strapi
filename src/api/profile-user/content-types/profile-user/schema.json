@@ -1,0 +1,60 @@
+{
+  "kind": "collectionType",
+  "collectionName": "profile_users",
+  "info": {
+    "singularName": "profile-user",
+    "pluralName": "profile-users",
+    "displayName": "profile_user",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "user_id": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "first_name": {
+      "type": "string",
+      "required": true
+    },
+    "last_name": {
+      "type": "string",
+      "required": true
+    },
+    "email_address": {
+      "type": "email",
+      "required": true
+    },
+    "active": {
+      "type": "boolean",
+      "required": true
+    },
+    "signup_datetime": {
+      "type": "datetime"
+    },
+    "profile_image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "login_histories": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::login-history.login-history",
+      "inversedBy": "profile_users"
+    },
+    "site_posts": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::site-post.site-post",
+      "mappedBy": "profile_user"
+    }
+  }
+}

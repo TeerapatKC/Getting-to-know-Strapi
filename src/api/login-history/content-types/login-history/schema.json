@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "login_histories",
+  "info": {
+    "singularName": "login-history",
+    "pluralName": "login-histories",
+    "displayName": "login_history",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "login_datetime": {
+      "type": "datetime"
+    },
+    "profile_users": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::profile-user.profile-user",
+      "mappedBy": "login_histories"
+    }
+  }
+}
